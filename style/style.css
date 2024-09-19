@@ -8,3 +8,22 @@ img {
   margin-right: auto;
   display: block;
 }
+.titre {
+  color: red;
+}
+.item {
+  color: green;
+}
+.titre .item {
+  font-size: large;
+}
+* {
+  background-color: cornsilk;
+}
+/* .item {
+  color: grey;
+}
+.titre .item {
+  background-color: aqua;
+  font-size: bold;
+} */
